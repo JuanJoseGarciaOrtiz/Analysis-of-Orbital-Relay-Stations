@@ -19,8 +19,7 @@ ROOT<br>
 |----UnitTesting: Text files and scripts that can run unit tests for some of the functions in the code, main script RunAllTests.m | runs them all.<br>
 |<br>
 |----Functions: subroutines.<br>
->	|<br>
-	|----BaseModel: Basic subroutines to model the core physics of the problem.<br>
+	+ |----BaseModel: Basic subroutines to model the core physics of the problem.<br>
 	|	|<br>
 	|	|----MathematicalExpression: Lengthy expressions for other subroutines.<br>
 	|	|<br>
