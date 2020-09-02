@@ -9,14 +9,14 @@ It is part of a wider project that includes case studies and algorithm design st
 
 Folder structure:
 
-ROOT
+ROOT<br>
 |----README and LICENSE.<br>
-|
-|----Main scripts: AnalyzeMission, AnalyzeMission00, AnalyzeMission01.
-|
-|----Files: Text files that can be read by several functions for user input.
-|
-|----UnitTesting: Text files and scripts that can run unit tests for some of the functions in the code, main script RunAllTests.m | runs them all.
+|<br>
+|----Main scripts: AnalyzeMission, AnalyzeMission00, AnalyzeMission01.<br>
+|<br>
+|----Files: Text files that can be read by several functions for user input.<br>
+|<br>
+|----UnitTesting: Text files and scripts that can run unit tests for some of the functions in the code, main script RunAllTests.m | runs them all.<br>
 |
 |----Functions: subroutines.
 	|
