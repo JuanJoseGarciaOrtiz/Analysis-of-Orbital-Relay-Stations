@@ -17,25 +17,25 @@ ROOT<br>
 |----Files: Text files that can be read by several functions for user input.<br>
 |<br>
 |----UnitTesting: Text files and scripts that can run unit tests for some of the functions in the code, main script RunAllTests.m | runs them all.<br>
-|
-|----Functions: subroutines.
-	|
-	|----BaseModel: Basic subroutines to model the core physics of the problem.
-	|	|
-	|	|----MathematicalExpression: Lengthy expressions for other subroutines.
-	|	|
-	|	|----PaylaodOperations: Functions that specifically tackle operations between payloads and stations.
-	|	|
-	|	|----PlottingTools: Some functions that can be called during post-processors to plot.
-	|
-	|----Mission: Subroutines specific only to Mission.m function.
-	|
-	|----Mission00: Subroutines specific only to Mission00.m function.
-	|
-	|----Mission01: Subroutines specific only to Mission01.m function.
-	|
-	|----Design: Tools to design and optimize the performance of network and missions.
-	|	|
-	|	|----MissionDesign: Subroutines and main script to run the genetic algorithm mission optimizer.
-	|	|
-	|	|----NetworkDesign: Station spacing scripts according to different criterions.
+|<br>
+|----Functions: subroutines.<br>
+	|<br>
+	|----BaseModel: Basic subroutines to model the core physics of the problem.<br>
+	|	|<br>
+	|	|----MathematicalExpression: Lengthy expressions for other subroutines.<br>
+	|	|<br>
+	|	|----PaylaodOperations: Functions that specifically tackle operations between payloads and stations.<br>
+	|	|<br>
+	|	|----PlottingTools: Some functions that can be called during post-processors to plot.<br>
+	|<br>
+	|----Mission: Subroutines specific only to Mission.m function.<br>
+	|<br>
+	|----Mission00: Subroutines specific only to Mission00.m function.<br>
+	|<br>
+	|----Mission01: Subroutines specific only to Mission01.m function.<br>
+	|<br>
+	|----Design: Tools to design and optimize the performance of network and missions.<br>
+	|	|<br>
+	|	|----MissionDesign: Subroutines and main script to run the genetic algorithm mission optimizer.<br>
+	|	|<br>
+	|	|----NetworkDesign: Station spacing scripts according to different criterions.<br>
