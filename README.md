@@ -19,8 +19,8 @@ ROOT<br>
 |----UnitTesting: Text files and scripts that can run unit tests for some of the functions in the code, main script RunAllTests.m | runs them all.<br>
 |<br>
 |----Functions: subroutines.<br>
-	+ |----BaseModel: Basic subroutines to model the core physics of the problem.<br>
-	|	|<br>
+        |----BaseModel: Basic subroutines to model the core physics of the problem.<br>
+        |       |<br>
 	|	|----MathematicalExpression: Lengthy expressions for other subroutines.<br>
 	|	|<br>
 	|	|----PaylaodOperations: Functions that specifically tackle operations between payloads and stations.<br>
