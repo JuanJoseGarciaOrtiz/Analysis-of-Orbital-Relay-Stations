@@ -5,7 +5,7 @@ This code serves for analysis, design and optimization of relay station networks
 - Mission: multi-payload with arbitrary mission profile.
 
 
-It is part of a wider project that includes case studies and algorithm design steps "Analysis of Orbital Relay Stations for Orbital Energy Accumulation" (Bachelor Thesis uc3m, Author: Juan José García Ortiz)
+It is part of a wider project that includes case studies and algorithm design steps "Analysis of Orbital Relay Stations for Orbital Energy Accumulation" (Bachelor Thesis uc3m, Author: Juan José García Ortiz).
 
 Folder structure:
 
@@ -18,9 +18,9 @@ ROOT
 |
 |----UnitTesting: Text files and scripts that can run unit tests for some of the functions in the code, main script RunAllTests.m | runs them all.
 |
-|----Functions: subroutines
+|----Functions: subroutines.
 	|
-	|----BaseModel: Basic subroutines to model the core physics of the problem
+	|----BaseModel: Basic subroutines to model the core physics of the problem.
 	|	|
 	|	|----MathematicalExpression: Lengthy expressions for other subroutines.
 	|	|
