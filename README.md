@@ -10,7 +10,7 @@ It is part of a wider project that includes case studies and algorithm design st
 Folder structure:
 
 ROOT
-|----README and LICENSE.[carriage return] 
+|----README and LICENSE.<br>
 |
 |----Main scripts: AnalyzeMission, AnalyzeMission00, AnalyzeMission01.
 |
