@@ -1,0 +1,17 @@
+%Input file for running the tests on TEST_Mission00, masses in kg, times in seconds%
+Payload Mass(kg):
+10
+Initial Station number:
+3
+Final Station number:
+5
+-----------------------------Operation 1----------------------------------
+Pre operation waiting time:
+1000
+Operation Time of Flight:
+3500
+-----------------------------Operation 2----------------------------------
+Pre operation waiting time:
+2000
+Operation Time of Flight:
+4500

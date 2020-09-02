@@ -1,0 +1,24 @@
+%Input file for Mission analysis including payload desired transfers. Times in seconds, masses in kg%
+Number of payloads:
+1
+---------------------------------------------------------------
+Mass of the payload(kg):
+10
+Initial station:
+3
+Number of operations:
+2
+%---Operation---%
+Waiting Time (s):
+500
+Time of Flight (s):
+3500
+Target Station:
+4
+%---Operation---%
+Waiting Time (s):
+500
+Time of Flight (s):
+4500
+Target Station:
+5

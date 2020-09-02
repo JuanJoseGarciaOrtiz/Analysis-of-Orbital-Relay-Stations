@@ -1,0 +1,12 @@
+%Input file for Mission00 runs, masses in kg, times in seconds%
+Payload Mass(kg):
+10
+Initial Station number:
+3
+Final Station number:
+4
+-----------------------------Operation 1----------------------------------
+Pre operation waiting time:
+5
+Operation Time of Flight:
+27618

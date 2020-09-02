@@ -1,0 +1,7 @@
+%Input file for Mission00 runs, masses in kg, times in seconds%
+Payload Mass(kg):
+10
+Initial Station number:
+1
+Final Station number:
+5

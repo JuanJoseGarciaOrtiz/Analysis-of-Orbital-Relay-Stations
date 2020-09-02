@@ -1,0 +1,98 @@
+%Input file with base station network data, all angles in degrees, distances in kilometers, masses in kg%
+Number of stations:
+5
+---------------------------------------------------------------
+Mass of the station (kg):
+1000
+Orbit type (0 elliptic/1 circular):
+1
+(Initial) Argument of latitude (only for circular orbits):
+45
+Argument of periapsis (only for elliptic orbits):
+NaN
+(Initial) True anomaly (only for elliptic orbits):
+NaN
+Inclination:
+0
+Azimuth of ascending node (only for nonzero inclination):
+0
+Semi-major axis:
+8946.5
+Eccentricity:
+0
+---------------------------------------------------------------
+Mass of the station (kg):
+1000
+Orbit type (0 elliptic/1 circular):
+1
+(Initial) Argument of latitude (only for circular orbits):
+45
+Argument of periapsis (only for elliptic orbits):
+NaN
+(Initial) True anomaly (only for elliptic orbits):
+NaN
+Inclination:
+0
+Azimuth of ascending node (only for nonzero inclination):
+0
+Semi-major axis:
+12239
+Eccentricity:
+0
+---------------------------------------------------------------
+Mass of the station (kg):
+1000
+Orbit type (0 elliptic/1 circular):
+1
+(Initial) Argument of latitude (only for circular orbits):
+45
+Argument of periapsis (only for elliptic orbits):
+NaN
+(Initial) True anomaly (only for elliptic orbits):
+NaN
+Inclination:
+0
+Azimuth of ascending node (only for nonzero inclination):
+0
+Semi-major axis:
+17719
+Eccentricity:
+0
+---------------------------------------------------------------
+Mass of the station (kg):
+1000
+Orbit type (0 elliptic/1 circular):
+1
+(Initial) Argument of latitude (only for circular orbits):
+45
+Argument of periapsis (only for elliptic orbits):
+NaN
+(Initial) True anomaly (only for elliptic orbits):
+NaN
+Inclination:
+0
+Azimuth of ascending node (only for nonzero inclination):
+0
+Semi-major axis:
+27828
+Eccentricity:
+0
+---------------------------------------------------------------
+Mass of the station (kg):
+1000
+Orbit type (0 elliptic/1 circular):
+1
+(Initial) Argument of latitude (only for circular orbits):
+60
+Argument of periapsis (only for elliptic orbits):
+NaN
+(Initial) True anomaly (only for elliptic orbits):
+NaN
+Inclination:
+0
+Azimuth of ascending node (only for nonzero inclination):
+0
+Semi-major axis:
+49653
+Eccentricity:
+0
