@@ -4,11 +4,24 @@ This code serves for analysis, design and optimization of relay station networks
 - Mission01: single payload with estimated Hohmann arcs.
 - Mission: multi-payload with arbitrary mission profile.
 
-
 It is part of a wider project that includes case studies and algorithm design steps "Analysis of Orbital Relay Stations for Orbital Energy Accumulation" (Bachelor Thesis uc3m, Author: Juan José García Ortiz)
 
-Folder structure:
+INSTALLATION:
+All files and folders in the root should be added to MATLAB path.
 
+DEPENDENCIES:
+MATLAB release 2020a (or more recent) is required to run all features of the code.
+The project relies on additional MATLAB packages such as the Optimization Toolbox and the Global Optimization Toolbox.
+
+QUICK USAGE GUIDE:
+Input parameters for the different missipns can be tuned in their respective input file. Main scripts have already built in post-processing tools that will print impact reports and plots directly. Network and Mission design tools such as the ga.m optimizer are included in the "Design" folder and can be run and tuned in their respective main scripts.
+
+ACKNOWLEDGEMENTS:
+This code is the result of a year work Bachelor Thesis and posted publicly so that it can be useful for other people. It is kindly requested that you cite it if you use it.
+The Bachelor Thesis was done under the supervision and tutoring of Mario Merino Martinez.
+
+
+FOLDER STRUCTURE:
 ROOT
 |----README and LICENSE.
 |
@@ -39,4 +52,6 @@ ROOT
 	|	|----MissionDesign: Subroutines and main script to run the genetic algorithm mission optimizer.
 	|	|
 	|	|----NetworkDesign: Station spacing scripts according to different criterions.
-        
+	
+LICENSE
+This software is released under the MIT License.
