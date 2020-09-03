@@ -14,7 +14,9 @@ MATLAB release 2020a (or more recent) is required to run all features of the cod
 The project relies on additional MATLAB packages such as the Optimization Toolbox and the Global Optimization Toolbox.
 
 QUICK USAGE GUIDE:
-Input parameters for the different missipns can be tuned in their respective input file. Main scripts have already built in post-processing tools that will print impact reports and plots directly. Network and Mission design tools such as the ga.m optimizer are included in the "Design" folder and can be run and tuned in their respective main scripts.
+Input parameters for the different missipns can be tuned in their respective input file.
+Main scripts have already built in post-processing tools that will print impact reports and plots directly.
+Network and Mission design tools such as the ga.m optimizer are included in the "Design" folder and can be run and tuned in their respective main scripts.
 
 ACKNOWLEDGEMENTS:
 This code is the result of a year work Bachelor Thesis and posted publicly so that it can be useful for other people. It is kindly requested that you cite it if you use it.
